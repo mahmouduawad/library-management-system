@@ -27,6 +27,3 @@ A simple console-based Library Management System developed using Java and Object
 - Static Methods
 - Lists (ArrayList)
 - Menu-driven program structure
-
-## 📌 How to Run
-1. Clone the repository:
